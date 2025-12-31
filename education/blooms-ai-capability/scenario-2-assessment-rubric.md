@@ -2,19 +2,22 @@
 
 ## Scenario Context
 
-A course includes a written analytical assignment. Staff suspect widespread AI use, but:
-- marking criteria do not reference AI
-- feedback varies widely between markers
-- students are unclear what is permitted
+A course includes an analytical written assignment. Markers suspect widespread AI use, but:
 
-You are asked to revise the rubric so it aligns with Bloom’s Taxonomy **and** the AI Capability Framework.
+- assessment criteria do not reference AI
+- students receive inconsistent feedback
+- markers apply personal interpretations of “acceptable use”
+
+This creates QA risks related to transparency, consistency, and fairness.
 
 ---
 
-## Bloom-Anchored Criterion (Traditional)
+## Traditional Criterion
 
 **Criterion:** Critical analysis  
 **Descriptor:** Demonstrates critical evaluation of sources and arguments.
+
+While cognitively appropriate, this criterion does not clarify expectations when AI is used.
 
 ---
 
@@ -22,38 +25,45 @@ You are asked to revise the rubric so it aligns with Bloom’s Taxonomy **and** 
 
 ### Revised Criterion: Critical Analysis with AI Support
 
-| Performance Dimension | Indicators |
-|----------------------|-----------|
-| Cognitive Quality (Bloom) | Analysis shows evaluation, synthesis, and reasoned judgement |
-| AI Use Transparency | AI use is clearly described and appropriately bounded |
+| Dimension | Indicators |
+|--------|------------|
+| Cognitive Demand (Bloom) | Evidence of evaluation, synthesis, and reasoned judgement |
+| AI Use Transparency | AI use is clearly disclosed and appropriately bounded |
 | Judgement & Control | Student demonstrates decision-making beyond AI output |
 | Ethical Awareness | Limitations, bias, or uncertainty are acknowledged |
-| Accountability | Work could be defended if questioned |
+| Accountability | Work can be explained and defended if questioned |
 
 ---
 
-## Marker Guidance (Extract)
+## Marker Guidance (QA-Relevant)
 
 Markers should look for:
-- evidence that AI outputs were interrogated, not accepted wholesale
-- clarity about where human judgement shaped the final submission
-- reflective commentary where appropriate
 
-Markers should **not**:
-- attempt to detect AI use through style alone
-- penalise responsible, disclosed use aligned with guidance
+- evidence that AI outputs were interrogated rather than accepted
+- clarity about where human judgement shaped the submission
+- consistency with communicated guidance
+
+Markers should not:
+
+- attempt to infer AI use from writing style alone
+- penalise responsible, disclosed use aligned with assessment design
+
+---
+
+## QA and Assurance Rationale
+
+Explicit reference to AI use in assessment criteria:
+
+- supports consistency between markers
+- enhances transparency for students
+- reduces reliance on informal practice
+- aligns with QAA guidance on assessment integrity and fairness
+
+This reframes AI from an integrity risk to a **designed assessment condition**.
 
 ---
 
 ## Capability Mapping (Internal)
 
-- Bloom: Analyse / Evaluate
+- Bloom: Analyse / Evaluate  
 - AI Capability Domains: 2, 3, 4, 5
-
----
-
-## Discussion Prompt
-
-> “What does ‘critical thinking’ mean when AI can generate plausible critique?”
-
-Use this question to align marker expectations and reduce inconsistency.
