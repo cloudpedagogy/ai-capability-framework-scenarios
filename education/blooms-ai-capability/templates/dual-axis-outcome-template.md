@@ -1,9 +1,9 @@
 # Dual-Axis Learning Outcome Template  
-(Bloom × AI Capability)
+(Bloom’s Taxonomy × AI Capability)
 
 ## Learning Outcome
 
-> [Bloom verb] + [disciplinary object], using AI tools where appropriate, while demonstrating [judgement / ethics / transparency / governance expectations].
+> [Bloom verb] + [disciplinary object], using AI tools where appropriate, while demonstrating [judgement / transparency / ethical awareness / accountability].
 
 ---
 
@@ -14,24 +14,25 @@
 
 ---
 
-## AI Capability Considerations
+## AI Capability Considerations (QA-Relevant)
 
 - **Permitted AI Uses:**  
   (e.g. ideation, drafting, synthesis)
 
-- **Learner Judgement Required:**  
-  (Where must human decision-making be evident?)
+- **Judgement Requirement:**  
+  Where must independent decision-making be evident?
 
 - **Ethical / Equity Considerations:**  
-  (Bias, access, transparency)
+  Bias, access, transparency, responsibility
 
-- **Governance / Defensibility:**  
-  (Could this outcome be justified to QA or accreditation?)
+- **Governance and Defensibility:**  
+  Could this outcome be justified to a validation panel, external examiner, or PSRB?
 
 ---
 
-## Notes for Review
+## Review Checklist
 
-- Is AI use explicit but not tool-specific?
+- Is academic level unchanged?
 - Is responsibility clearly located with the learner?
-- Would this still hold if tools change?
+- Is AI use explicit but not tool-specific?
+- Would this still hold as tools evolve?
