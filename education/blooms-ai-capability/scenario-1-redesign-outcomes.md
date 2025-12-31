@@ -1,73 +1,93 @@
-# Scenario 1: Retrofitting Learning Outcomes for AI-Aware Practice
+# Scenario 1: Redesigning Learning Outcomes for AI-Aware Practice
 
 ## Scenario Context
 
-You are part of a programme team reviewing learning outcomes for a course that is already using generative AI in practice — even if not formally acknowledged.
+A programme team is reviewing learning outcomes for a course in which students are already using generative AI tools for:
 
-Students are:
-- drafting text with AI
-- using AI for ideation and structuring
-- checking clarity, tone, or synthesis
+- drafting and structuring work
+- summarising or comparing sources
+- generating ideas or alternative perspectives
 
-However, the published learning outcomes make no reference to AI, judgement, or responsibility. This creates misalignment between:
-- what students actually do
-- what the course claims to assess
-- what the institution can defend if challenged
+However, existing learning outcomes make no reference to AI use, judgement, or responsibility. This creates misalignment between:
 
-Your task is to retrofit outcomes using Bloom’s Taxonomy **and** the AI Capability Framework.
+- actual learning practice
+- assessment expectations
+- what the institution can defend during QA or accreditation review
 
 ---
 
-## Starting Point (Existing Outcome)
+## Existing Learning Outcome
 
 > “Critically evaluate contemporary policy literature in the field.”
+
+This outcome is cognitively clear, but silent on the conditions under which evaluation takes place.
 
 ---
 
 ## Task
 
-Redesign this outcome so that it:
-1. Retains a clear Bloom-level cognitive demand
-2. Explicitly acknowledges AI use
-3. Makes expectations around judgement, ethics, and governance visible
+Redesign the outcome so that it:
+
+1. Retains a clear Bloom-level cognitive demand  
+2. Explicitly acknowledges AI use where relevant  
+3. Makes expectations around judgement, ethics, and accountability visible  
+4. Remains defensible under UK QA scrutiny  
 
 ---
 
-## Dual-Axis Redesign Example
+## Revised Learning Outcome (Example)
 
-**Revised Learning Outcome**
-
-> “Critically evaluate contemporary policy literature, using generative AI tools to support synthesis and comparison, while demonstrating informed judgement, transparency of method, and ethical awareness in line with institutional AI guidance.”
+> “Critically evaluate contemporary policy literature, using generative AI tools to support synthesis and comparison where appropriate, while demonstrating independent judgement, transparency of method, and ethical awareness in line with institutional AI guidance.”
 
 ---
 
-## Capability Reflection Prompts (Facilitated)
+## QA and Standards Considerations
 
-Ask the team:
+From a UK QA perspective, consider:
+
+- Is the level of cognitive demand unchanged?
+- Is AI use explicit enough to avoid ambiguity for students and markers?
+- Is responsibility clearly located with the learner?
+- Could this outcome be justified to an external examiner or PSRB panel?
+
+This approach supports QAA expectations that learning outcomes are:
+
+- clearly articulated
+- aligned with assessment
+- reflective of current educational practice
+- capable of being reviewed and assured
+
+---
+
+## AI Capability Reflection Prompts
+
+Use these prompts to support structured discussion:
 
 - **Domain 1 – Awareness:**  
-  What assumptions are we making about students’ AI literacy?
+  What AI knowledge are we assuming students already have?
 
 - **Domain 2 – Human–AI Co-Agency:**  
-  Where does judgement sit — with the learner or the tool?
+  Where must human judgement be visible?
 
 - **Domain 3 – Applied Practice:**  
-  What AI uses are encouraged, optional, or discouraged?
+  Which AI uses are permitted, bounded, or discouraged?
 
 - **Domain 4 – Ethics, Equity & Impact:**  
-  Who might be advantaged or disadvantaged by this design?
+  Are there equity or bias considerations in this design?
 
 - **Domain 5 – Decision-Making & Governance:**  
-  Could we justify this outcome to an external examiner?
+  How would we evidence this design decision if challenged?
 
 - **Domain 6 – Reflection & Renewal:**  
-  How will we revisit this outcome as tools change?
+  How will this outcome be reviewed as AI tools evolve?
 
 ---
 
 ## Output
 
 A revised set of learning outcomes that:
-- still read naturally within programme documentation
-- surface AI use without over-specifying tools
-- shift AI from “hidden practice” to “designed capability”
+
+- remain readable within programme documentation
+- align with assessment practices
+- make AI use explicit and governable
+- support defensible academic standards
