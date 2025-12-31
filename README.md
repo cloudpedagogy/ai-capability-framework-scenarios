@@ -2,7 +2,7 @@
 
 A practical, governance-credible scenario library for applying the **CloudPedagogy AI Capability Framework (2026 Edition)** in real professional contexts.
 
-This repository translates the Framework from a conceptual reference model into **actionable, context-sensitive practice** across education, research, leadership, governance, and knowledge-intensive work.
+This repository translates the Framework from a conceptual reference model into **actionable, context-sensitive practice** across education, research, leadership, governance, public service, and knowledge-intensive work.
 
 ---
 
@@ -14,9 +14,9 @@ This Scenario Library exists to address a persistent gap in AI guidance:
 
 Rather than offering abstract principles, tool tutorials, or policy statements, this repository provides **structured, facilitation-ready scenarios** that can be:
 
-- used directly in workshops, meetings, and training
-- adapted to local policy, culture, and sector context
-- embedded into curriculum, CPD, and governance processes
+- used directly in workshops, meetings, and training  
+- adapted to local policy, culture, and sector context  
+- embedded into curriculum, CPD, governance, and assurance processes  
 
 Each scenario focuses on **how people think, decide, and exercise judgement** when AI is present — not simply how tools are used.
 
@@ -24,20 +24,20 @@ Each scenario focuses on **how people think, decide, and exercise judgement** wh
 
 ## What These Scenarios Are
 
-Each scenario is a **contextual guide** focused on a specific professional situation (for example: curriculum design workshops, interview panels, risk review meetings, or research analysis).
+Each scenario is a **contextual guide** focused on a specific professional situation (for example: assessment design, incident response, curriculum workshops, public consultation, or research analysis).
 
 Every scenario:
 
-- follows a consistent structure
-- explicitly applies all six domains of the AI Capability Framework
-- treats AI as a *support for human judgement*, not a substitute
-- foregrounds ethics, equity, accountability, and learning
+- follows a consistent structure  
+- explicitly applies all six domains of the AI Capability Framework  
+- treats AI as a *support for human judgement*, not a substitute  
+- foregrounds ethics, equity, accountability, and learning  
 
 Scenarios are written to be:
 
-- realistic and recognisable
-- institution-ready
-- usable by non-technical professionals
+- realistic and recognisable  
+- institution-ready  
+- usable by non-technical professionals  
 
 ---
 
@@ -45,10 +45,10 @@ Scenarios are written to be:
 
 These scenarios are **not**:
 
-- tool tutorials or prompt collections
-- technical AI implementation guides
-- organisational policy documents
-- generic “best practice” checklists
+- tool tutorials or prompt collections  
+- technical AI implementation guides  
+- organisational policy documents  
+- generic “best practice” checklists  
 
 They are designed to sit **between policy and practice**, supporting defensible action in real situations where judgement matters.
 
@@ -122,6 +122,17 @@ Scenarios supporting AI-aware learning design and educational practice:
 
 ---
 
+### Assessment, Evaluation, and Quality Judgement
+Scenarios focused on legitimacy, defensibility, and academic or professional standards:
+
+- assessment design and validation  
+- marking, moderation, and calibration  
+- external examining and review  
+- academic integrity review panels  
+- quality assurance decision points  
+
+---
+
 ### Research and Knowledge Work
 Scenarios supporting responsible AI use across the research lifecycle:
 
@@ -129,6 +140,72 @@ Scenarios supporting responsible AI use across the research lifecycle:
 - grant writing meetings  
 - analysis and interpretation  
 - dissemination and communication  
+
+---
+
+### Data, Evidence, and Insight Use
+Scenarios addressing how AI-mediated evidence informs decisions:
+
+- dashboard interpretation and reporting  
+- evidence synthesis for decision-making  
+- KPI review and performance narratives  
+- predictive insight and early warning systems  
+- translating data into action  
+
+---
+
+### Student Support, Advising, and Pastoral Contexts
+Scenarios for ethically sensitive, care-adjacent AI use:
+
+- academic advising conversations  
+- personal tutoring and progress review  
+- AI-supported guidance systems  
+- escalation and safeguarding boundaries  
+- supporting students in distress  
+
+---
+
+### Professional Identity and Role Evolution
+Scenarios exploring how AI reshapes expertise, roles, and accountability:
+
+- redefining expertise with AI  
+- boundary setting between human and AI work  
+- professional accountability in AI-augmented roles  
+- career progression and capability signalling  
+- loss, displacement, and role anxiety  
+
+---
+
+### Risk, Resilience, and Crisis Contexts
+Scenarios for high-pressure, time-critical situations:
+
+- incident response and AI use  
+- crisis communications and AI drafting  
+- reputational risk assessment  
+- business continuity and scenario stress-testing  
+- post-incident review and learning  
+
+---
+
+### Public Service and Civic Decision-Making
+Scenarios supporting transparent, legitimate AI use affecting the public:
+
+- policy consultation and public submissions  
+- impact assessment and regulatory advice  
+- public communication of AI-informed decisions  
+- algorithmic decision appeals and redress  
+- cross-agency coordination and AI use  
+
+---
+
+### Immersive, XR, and Simulation Contexts
+Scenarios exploring emerging AI use in immersive environments:
+
+- immersive simulation and virtual reality  
+- AI-driven virtual agents and roleplay  
+- immersive assessment and performance simulation  
+- ethical boundaries in immersive experiences  
+- accessibility and inclusion in XR learning  
 
 ---
 
@@ -147,7 +224,7 @@ Scenarios may be used as:
 - workshop facilitation guides  
 - staff development and CPD resources  
 - curriculum and assessment design scaffolding  
-- governance discussion artefacts  
+- governance, assurance, and audit artefacts  
 
 ---
 
@@ -155,8 +232,8 @@ Scenarios may be used as:
 
 This repository complements (but does not duplicate):
 
-- the **AI Capability Framework** (canonical reference model)
-- the **AI Capability Briefs** repository (conceptual topic explainers)
+- the **AI Capability Framework** (canonical reference model)  
+- the **AI Capability Briefs** repository (conceptual topic explainers)  
 - CloudPedagogy courses, handbooks, and toolkits  
 
 **Briefs explain *what* and *why*.**  
