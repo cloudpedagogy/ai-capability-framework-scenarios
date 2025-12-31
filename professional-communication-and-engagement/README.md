@@ -1,44 +1,24 @@
-# Professional Communication and Engagement  
-**Applying the AI Capability Framework**
+# Professional Communication and Engagement — Scenario Set
 
-This folder contains scenario-based guides for applying the **CloudPedagogy AI Capability Framework (2026 Edition)** to professional communication and engagement contexts where AI may shape messaging, framing, interpretation, or public trust.
+This folder contains scenario-based applications of the **CloudPedagogy AI Capability Framework (2026 Edition)** focused on professional communication, engagement, and public-facing interaction.
 
-These scenarios address moments where communication is not merely informational, but **consequential** — influencing reputation, relationships, legitimacy, and decision-making across organisational, public, and stakeholder-facing contexts.
+These scenarios address moments where AI may shape how organisations communicate, listen, respond, and represent themselves — often in contexts where trust, legitimacy, and ethical responsibility matter as much as efficiency or clarity.
 
-AI is increasingly used to draft, adapt, summarise, or optimise communication. These scenarios help professionals use AI **responsibly, proportionately, and defensibly**, without eroding judgement, credibility, or care.
-
----
-
-## What this folder is for
-
-Professional communication and engagement contexts include situations where:
-
-- messages carry reputational or ethical weight
-- audiences have different levels of power, expertise, or vulnerability
-- accuracy, tone, and proportionality matter as much as clarity
-- AI-generated outputs may appear confident, persuasive, or authoritative
-
-This folder supports AI-aware practice in contexts such as:
-
-- internal and external communications
-- stakeholder and partner engagement
-- public-facing explanations of decisions or evidence
-- policy, strategy, or research communication
-- sensitive or high-risk messaging
+The scenarios are designed to support **responsible, human-centred communication practices** when AI is present, permitted, or under consideration.
 
 ---
 
-## Who this is for
+## Who this scenario set is for
 
-These scenarios are designed to support:
+This folder is designed for professionals working in roles such as:
 
-- Communications and engagement teams  
-- Policy, strategy, and public affairs professionals  
-- Researchers and leaders communicating findings or decisions  
-- Educators and facilitators supporting AI-aware communication practice  
-- Governance, risk, and assurance roles concerned with reputational impact  
+- Communications, engagement, and public affairs teams  
+- Policy, consultation, and stakeholder engagement staff  
+- Leaders and managers responsible for public trust  
+- Researchers and educators engaging external audiences  
+- Professionals handling media, reputation, or sensitive dialogue  
 
-They assume **no technical AI expertise**, but do assume responsibility for judgement and accountability.
+The scenarios are suitable for individual reflection, team discussion, workshops, and governance-aware training.
 
 ---
 
@@ -46,94 +26,96 @@ They assume **no technical AI expertise**, but do assume responsibility for judg
 
 ### These scenarios are:
 
-- Facilitation-ready, Markdown-based guides  
+- Context-rich, facilitation-ready guides  
 - Grounded in realistic professional situations  
-- Explicitly aligned to all six AI Capability Framework domains  
-- Designed to surface judgement, ethics, and trade-offs  
-- Suitable for workshops, team reflection, and guided discussion  
+- Explicitly mapped to all six AI Capability Framework domains  
+- Designed to support judgement, accountability, and reflection  
+- Usable across education, research, public service, and mission-driven organisations  
 
 ### These scenarios are not:
 
-- Copywriting templates or prompt packs  
-- Marketing optimisation playbooks  
-- Tool-specific communication guides  
-- Automation instructions for mass messaging  
+- Media training manuals or PR playbooks  
+- Tool-specific AI prompting guides  
+- Automation recipes for communication workflows  
+- Reputation-management or persuasion frameworks  
 
-They focus on **how to think and decide**, not how to generate content faster.
-
----
-
-## Relationship to other folders
-
-This folder complements — but does not duplicate — other scenario sets:
-
-- **Leadership and strategy** focuses on internal direction-setting  
-- **Governance and decision-making** focuses on formal accountability  
-- **Research and knowledge work** focuses on evidence production  
-
-**Professional communication and engagement** focuses on:
-
-> How AI shapes *meaning, interpretation, trust, and legitimacy* once ideas, decisions, or evidence leave the room.
+They sit **between policy and practice**, supporting thoughtful action where AI intersects with communication, power, and trust.
 
 ---
 
-## Example scenario types in this folder
+## Scenarios in this folder
 
-Scenarios in this folder may include (examples):
+This folder currently includes:
 
-- Public-facing communication of complex or uncertain information  
-- AI-assisted drafting of sensitive announcements  
-- Stakeholder engagement under reputational risk  
-- Communicating policy or strategy decisions transparently  
-- Explaining AI-influenced decisions to non-technical audiences  
-- Crisis or issue communications where AI is present or visible  
+- **Stakeholder Engagement and Consultation**  
+  Applying the Framework to consultations, listening exercises, and structured engagement where legitimacy and voice are central.
 
-Each scenario demonstrates how to apply the AI Capability Framework **in context**, not abstractly.
+- **Media Engagement and Press Interaction**  
+  Supporting responsible AI use in press relations, public statements, and reputationally sensitive communication.
+
+- **Community Outreach and Public Dialogue**  
+  Addressing AI use in public-facing dialogue, community engagement, and contexts involving lived experience and unequal power.
+
+Each scenario follows a consistent structure:
+1. Purpose and context  
+2. Where AI may appear — and why it matters  
+3. Application of all six Framework domains  
+4. In-the-moment prompts and checks  
+5. After-action reflection and learning  
 
 ---
 
-## How to use these scenarios
+## How to use this scenario set
 
-A recommended pattern:
+A recommended approach:
 
-1. Select a scenario aligned to your communication context  
-2. Read the situation and risks collectively  
-3. Work through the six framework domains  
-4. Discuss boundaries for appropriate AI use  
-5. Capture learning and decision rationale  
-6. Adapt language and prompts for your organisation  
+1. **Select** a scenario aligned to your communication context  
+2. **Adapt** language and examples to local culture and policy  
+3. **Use** the scenario to structure discussion or preparation  
+4. **Reflect** on judgement, ethics, and impact — not just outputs  
+5. **Iterate** and document learning for future engagements  
 
-Scenarios may be used:
+Scenarios can be used:
+- in communications planning meetings  
+- during engagement design or review  
+- as part of CPD or leadership development  
+- to support governance or reputational risk discussions  
 
-- in communications team workshops  
-- as part of leadership or governance training  
-- to support policy or engagement design  
-- as reflective tools following real communication events  
+---
+
+## Relationship to other scenario folders
+
+This folder focuses on **external-facing communication and engagement**.
+
+Related but distinct scenario sets include:
+- **Meetings and Collaboration** — internal coordination and decision-making  
+- **Leadership and Strategy** — strategic direction and organisational sensemaking  
+- **Governance and Decision-Making** — formal accountability and oversight  
+- **Teaching and Facilitation** — learning-focused interaction  
+
+Together, these folders provide coverage across internal, external, and hybrid communication contexts.
 
 ---
 
 ## Design principles
 
-All scenarios in this folder are guided by the following principles:
+All scenarios in this folder are built around shared principles:
 
 - Human judgement remains central  
-- AI outputs are provisional, not authoritative  
-- Ethics, equity, and impact are surfaced explicitly  
-- Communication is treated as a **governance act**, not just delivery  
-- Learning and reflection are built into practice  
+- AI use is explicit, bounded, and contestable  
+- Listening is prioritised over optimisation  
+- Power, equity, and legitimacy are surfaced  
+- Reflection and renewal are integral, not optional  
 
 ---
 
 ## Licence
 
-All materials in this folder are licensed under:
+All materials in this folder are licensed under **Creative Commons CC BY-NC-SA 4.0**, unless otherwise stated.
 
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**
-
-You may reuse and adapt these materials for educational, research, and public-interest purposes, with attribution, and under the same licence terms.
+You may reuse and adapt these scenarios for educational, research, and public-interest purposes with attribution.  
+Commercial use requires permission from the copyright holder.
 
 ---
 
-**Framework reference:**  
-CloudPedagogy AI Capability Framework (2026 Edition)  
-https://www.cloudpedagogy.com/pages/ai-capability-framework
+*This folder is part of the CloudPedagogy AI Capability Framework Scenario Library and is intended as a living, adaptable resource for responsible professional practice.*
