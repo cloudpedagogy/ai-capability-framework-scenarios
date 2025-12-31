@@ -1,6 +1,7 @@
-# AI-Aware Bloom Activity Cards
+# AI-Aware Bloom Activity Cards  
+(QA-Aligned)
 
-Use these cards to redesign activities without losing pedagogic clarity.
+Use these cards to redesign learning activities while maintaining pedagogic clarity and assessment defensibility.
 
 ---
 
@@ -9,11 +10,11 @@ Use these cards to redesign activities without losing pedagogic clarity.
 **Traditional Activity:**  
 Compare two theoretical perspectives.
 
-**AI-Aware Adaptation:**  
-Use AI to generate contrasting summaries, then critique their assumptions, omissions, and framing.
+**AI-Aware Activity:**  
+Use AI to generate contrasting summaries, then critique assumptions, omissions, and framing.
 
-**Capability Focus:**  
-- Human judgement over AI output  
+**QA Focus:**  
+- Evidence of independent judgement  
 - Transparency of method
 
 ---
@@ -23,12 +24,13 @@ Use AI to generate contrasting summaries, then critique their assumptions, omiss
 **Traditional Activity:**  
 Evaluate policy effectiveness.
 
-**AI-Aware Adaptation:**  
-Use AI to surface multiple evaluation criteria, then justify which criteria you adopt and why.
+**AI-Aware Activity:**  
+Use AI to propose evaluation criteria, then justify which criteria are adopted and why.
 
-**Capability Focus:**  
+**QA Focus:**  
 - Decision-making  
-- Ethical reasoning
+- Ethical reasoning  
+- Accountability
 
 ---
 
@@ -37,19 +39,20 @@ Use AI to surface multiple evaluation criteria, then justify which criteria you 
 **Traditional Activity:**  
 Design a proposal or artefact.
 
-**AI-Aware Adaptation:**  
-Use AI for ideation and drafting, but require reflective commentary on design decisions and rejected options.
+**AI-Aware Activity:**  
+Use AI for ideation and drafting, accompanied by reflective commentary on design decisions and rejected options.
 
-**Capability Focus:**  
-- Co-agency  
-- Accountability  
-- Reflection
+**QA Focus:**  
+- Human–AI co-agency  
+- Reflection and renewal  
+- Defensibility of outputs
 
 ---
 
-## Facilitation Tip
+## Facilitation Prompt
 
 Always ask:
-> “What must a student be able to *explain* if questioned?”
 
-That question connects Bloom to capability every time.
+> “What would a student need to explain if this work were questioned by an examiner or panel?”
+
+That question consistently links Bloom to capability and governance.
