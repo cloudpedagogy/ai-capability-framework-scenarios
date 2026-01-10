@@ -255,8 +255,7 @@ This supports reuse across education, research, and public-interest contexts whi
 
 ## About CloudPedagogy
 
-CloudPedagogy develops practical, ethical, and future-ready approaches to AI capability across education, research, and the public good.
+CloudPedagogy develops open, governance-credible resources for building confident, responsible AI capability across education, research, and public service.
 
-The AI Capability Framework and this Scenario Library are **living resources**, designed to be adapted, extended, and reflected upon in real professional contexts.
-
-Website: https://www.cloudpedagogy.com/
+- Website: https://www.cloudpedagogy.com/
+- Framework: https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework
