@@ -241,15 +241,23 @@ This repository complements (but does not duplicate):
 
 ---
 
-## Licensing
+## 📜 Licence
 
-This repository is licensed under **Creative Commons CC BY-NC-SA 4.0**:
+This repository is licensed under the
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.
 
-- Attribution required  
-- Non-commercial use  
-- Share adaptations under the same licence  
+You may:
+- Use, share, and adapt this work for educational, research, and public-interest purposes
+- Do so with appropriate attribution
+- Share adaptations under the same licence
 
-This supports reuse across education, research, and public-interest contexts while protecting against uncredited or commercial exploitation.
+You may not:
+- Use this work for commercial purposes
+- Resell, sublicense, or incorporate it into paid products, services, or platforms
+without explicit permission
+
+Full licence text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---
 
